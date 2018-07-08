@@ -1,29 +1,32 @@
-.title {
-  font-family: Verdana,cursive;
-  font-weight: normal;
-  color: white;
-  font-size: 50px;
+body {
+  background-color: black;
+  font-family: "Verdana",sans-serif;
   text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  color: white;
+  font-weight: normal;
+}
+
+a {
+  font-size: 16px;
+  color: aquamarine;
 }
 
 p {
-  color: aquamarine;
-  font-size: 16px;
-}
-
-body {
-  background-color: black;
-  text-align: center;
+  font-size: 21px;
+  color: grey;
 }
 
 h2 {
-  font-family: Verdana, cursive;
-  font-weight: 300;
   font-size: 42px;
+  color: white;
+  font-weight: 300;
 }
 
-h3 {
-  font-family: Verdana,cursive;
-  font-size: 21px;
+.footer {
+  text-align: right;
   color: grey;
 }
