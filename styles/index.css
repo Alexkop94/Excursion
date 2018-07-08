@@ -1,0 +1,12 @@
+.title {
+  font-family: Verdana,cursive;
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}
+
+p {
+  color: aquamarine;
+  font-size: 16px;
+}
